@@ -5,7 +5,7 @@ html {
 body {
   height: 100%;
   margin: 0;
-  font-family: Playfair;
+  font-family:'Playfair Display', serif;
   display: grid;
   justify-items: center;
   align-items: center;
